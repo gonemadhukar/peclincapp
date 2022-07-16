@@ -9,13 +9,13 @@ trigger:
 variables:
 
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'e0ece508-938c-4008-a8e4-be1d5c6b3445'
+  azureSubscription: '0979badf-2053-4579-8feb-3d72effe975e'
 
   # Web app name
-  webAppName: 'Mypetclinic12'
+  webAppName: 'Mypetclinic-app'
 
   # Environment name
-  environmentName: 'Mypetclinic12'
+  environmentName: 'Mypetclinic-app'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
